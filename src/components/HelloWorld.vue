@@ -37,6 +37,16 @@
         </p>
       </div>
     </div>
+    <div class="row odd">
+      <img src="https://memes.tw/user-wtf/1627477613464.jpg"  class="smallpic"/>
+      <div class="container">
+        <h2>種類和用途</h2>
+        <p>
+          公共關係、廣告和營銷專業人士均將網路迷因定義為一種病毒行銷和游擊營銷方式。而使用迷因來推廣產品或服務的行動則被稱為「迷因營銷」[8]。網路迷因因為通常都符合時尚潮流，所以被視為有成本效益的。
+          在市場營銷方面，營銷人員會使用網路迷因製作影片，使大眾對產品或服務產生興趣。2006年電影《飛機上有蛇》便是一例子[9]。營銷人員亦會使用網路爆紅的短語或單詞作宣傳，目的是引起他人注意[10]。
+        </p>
+      </div>
+    </div>
   </div>
     <div>
        <input type="button" onclick = "location.href='#home'" value="回到最上層">
